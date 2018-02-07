@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## DHRUMIL'S EXAMPLE JEKYLL PAGE
 
-You can use the [editor on GitHub](https://github.com/dmil/jekylltest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+CHECK OUT THE CODE BEHIND THIS PAGE AT [https://dmil.github.io/jekylltest](https://dmil.github.io/jekylltest). ITS SO SIMPLE!
 
 ### Markdown
 
