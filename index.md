@@ -1,6 +1,6 @@
 ## DHRUMIL'S EXAMPLE JEKYLL PAGE
 
-CHECK OUT THE CODE BEHIND THIS PAGE AT [https://dmil.github.io/jekylltest](https://dmil.github.io/jekylltest). ITS SO SIMPLE!
+CHECK OUT THE CODE BEHIND THIS PAGE AT [https://github.com/dmil/jekylltest](https://github.com/dmil/jekylltest). ITS SO SIMPLE!
 
 ### Markdown
 
